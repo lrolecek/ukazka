@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>Home</h1>
+    <h1>Updated Home</h1>
 
     <p>Fingerstache fashion axe lo-fi ugh affogato polaroid lyft cred four dollar toast tumblr dreamcatcher. Swag humblebrag post-ironic, gentrify DIY fingerstache chartreuse ramps kinfolk single-origin coffee. Ennui vexillologist meditation, locavore kinfolk 3 wolf moon marfa everyday carry hexagon vegan VHS. Waistcoat marfa gentrify actually post-ironic. Aesthetic everyday carry try-hard, squid enamel pin messenger bag kickstarter. Small batch ugh pug, hell of slow-carb tousled biodiesel bicycle rights enamel pin. Kale chips williamsburg brooklyn yr forage deep v edison bulb vinyl, pug dreamcatcher.</p>
 
