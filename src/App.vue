@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/page">Page</router-link> |
+      <router-link to="/another">Another Page</router-link>
     </div>
     <router-view/>
   </div>
@@ -10,15 +11,19 @@
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  font-family: sans-serif;
   color: #2c3e50;
+  padding: 3em;
+}
+
+h1 {
+  font-size: 64px;
 }
 
 #nav {
-  padding: 30px;
+  border-bottom: 10px solid #42b983;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 #nav a {
